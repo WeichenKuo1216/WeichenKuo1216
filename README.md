@@ -1,6 +1,3 @@
-## Hi there 👋
-🔭 I’m currently working on 
-
 <!doctype html>
 <html lang="en">
 <head>
@@ -160,17 +157,5 @@
   <a class="btn" href="https://github.com/YOUR_GITHUB" target="_blank" rel="noreferrer">GitHub</a>
   <a class="btn" href="./resume.pdf" target="_blank" rel="noreferrer">Download PDF</a>
 </div>
-<!--
-**WeichenKuo1216/WeichenKuo1216** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-## 
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
