@@ -141,3 +141,19 @@
   </script>
 </body>
 </html>
+<h1>Wei-Chen Kuo</h1>
+<p>NCKU Senior • Supply Chain / Optimization • Manufacturing & Data</p>
+
+<div class="chips">
+  <span class="chip">Optimization (MILP / Heuristics)</span>
+  <span class="chip">Python / R</span>
+  <span class="chip">Gurobi</span>
+  <span class="chip">Power BI / VBA</span>
+</div>
+
+<div class="btnrow">
+  <a class="btn" href="mailto:YOUR_EMAIL@gmail.com">Email</a>
+  <a class="btn" href="https://www.linkedin.com/in/YOUR_LINKEDIN/" target="_blank" rel="noreferrer">LinkedIn</a>
+  <a class="btn" href="https://github.com/YOUR_GITHUB" target="_blank" rel="noreferrer">GitHub</a>
+  <a class="btn" href="./resume.pdf" target="_blank" rel="noreferrer">Download PDF</a>
+</div>
